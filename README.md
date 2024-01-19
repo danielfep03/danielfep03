@@ -1,22 +1,4 @@
 ## Hi there 👋
-  <p>
-    <a href="https://www.linkedin.com/in/danielfamado/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:danielfep.am@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/danielfep03/">
-      <img src="https://github-readme-stats.vercel.app/api?username=danielfep03&theme=default"/>
-    </a>
-    <a href="https://github.com/danielfep03/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfep03&layout=compact" />
-    </a>
-  </p>
-
   <h3>Things I code with</h3>
   <p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
